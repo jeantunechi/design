@@ -1,0 +1,1119 @@
+/* screen - desktop-3 */
+
+.desktop-3 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1992px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .desktop-3 .rectangle-37 {
+    align-self: flex-end;
+    background-color: var(--botticelli);
+    height: 59px;
+    margin-right: 228px;
+    margin-top: -576px;
+    width: 221px;
+    z-index: 4;
+  }
+  
+  .desktop-3 .component-1 {
+    align-items: center;
+    height: 142px;
+    left: 0;
+    min-width: 1440px;
+    position: fixed;
+    top: 0;
+    z-index: 7;
+  }
+  
+  .desktop-3 .image-1 {
+    align-self: flex-end;
+    height: 153px;
+    margin-bottom: -12px;
+    object-fit: cover;
+    width: 129px;
+  }
+  
+  .desktop-3 .overlap-group3 {
+    height: 50px;
+    margin-left: 90px;
+    margin-top: 16.0px;
+    position: relative;
+    width: 144px;
+  }
+  
+  .desktop-3 .title {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+  }
+  
+  .desktop-3 .material-symbolsarrow-drop-down-rounded {
+    height: 50px;
+    left: 94px;
+    position: absolute;
+    top: 0;
+    width: 50px;
+  }
+  
+  .desktop-3 .overlap-group2 {
+    height: 50px;
+    margin-left: 97px;
+    margin-top: 16.0px;
+    position: relative;
+    width: 270px;
+  }
+  
+  .desktop-3 .conseils-astuces {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+  }
+  
+  .desktop-3 .material-symbolsarrow-drop-down-rounded-1 {
+    left: 220px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .overlap-group1 {
+    height: 50px;
+    margin-left: 82px;
+    margin-top: 16.0px;
+    position: relative;
+    width: 183px;
+  }
+  
+  .desktop-3 .suivez-nous {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+  }
+  
+  .desktop-3 .material-symbolsarrow-drop-down-rounded-2 {
+    left: 133px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .icon-facebook {
+    height: 40px;
+    margin-left: 111px;
+    margin-top: 8.0px;
+    width: 40px;
+  }
+  
+  .desktop-3 .icon-instagram {
+    height: 40px;
+    margin-left: 49px;
+    margin-top: 8.0px;
+    width: 40px;
+  }
+  
+  .desktop-3 .icbaseline-tiktok {
+    height: 40px;
+    margin-left: 46px;
+    margin-top: 8.0px;
+    width: 40px;
+  }
+  
+  .desktop-3 .overlap-group7 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 10px;
+    display: flex;
+    gap: 30px;
+    height: 74px;
+    margin-left: 105px;
+    margin-top: 659px;
+    min-width: 511px;
+    padding: 10px 12px;
+    z-index: 2;
+  }
+  
+  .desktop-3 .icon-search {
+    height: 40px;
+    width: 40px;
+  }
+  
+  .desktop-3 .trouver-une-recette {
+    align-self: center;
+    color: #d0c4c4;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 5.0px;
+    min-height: 29px;
+    min-width: 232px;
+  }
+  
+  .desktop-3 .overlap-group6 {
+    align-items: center;
+    background-color: #f5f5f5;
+    display: flex;
+    height: 82px;
+    justify-content: flex-end;
+    min-width: 1440px;
+    padding: 15px 194px;
+    z-index: 1;
+  }
+  
+  .desktop-3 .overlap-group10 {
+    align-self: flex-end;
+    height: 50px;
+    position: relative;
+    width: 177px;
+  }
+  
+  .desktop-3 .populaire {
+    color: #ee1212;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+  }
+  
+  .desktop-3 .material-symbolsarrow-drop-down-rounded-3 {
+    left: 127px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .overlap-group9 {
+    height: 50px;
+    margin-left: 56px;
+    position: relative;
+    width: 122px;
+  }
+  
+  .desktop-3 .repas {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+  }
+  
+  .desktop-3 .material-symbolsarrow-drop-down-rounded-4 {
+    left: 72px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .plats {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 1.0px;
+    margin-left: 52px;
+    min-height: 29px;
+    min-width: 78px;
+  }
+  
+  .desktop-3 .overlap-group8 {
+    height: 50px;
+    margin-left: 46px;
+    position: relative;
+    width: 205px;
+  }
+  
+  .desktop-3 .ingredients {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+  }
+  
+  .desktop-3 .material-symbolsarrow-drop-down-rounded-6 {
+    left: 155px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .overlap-group11 {
+    height: 50px;
+    margin-left: 53px;
+    position: relative;
+    width: 138px;
+  }
+  
+  .desktop-3 .cuisine {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+  }
+  
+  .desktop-3 .material-symbolsarrow-drop-down-rounded-7 {
+    left: 88px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop-3 .overlap-group4 {
+    height: 1325px;
+    margin-left: -9px;
+    position: relative;
+    width: 1444px;
+    z-index: 3;
+  }
+  
+  .desktop-3 .rectangle-28 {
+    background-color: var(--white);
+    height: 447px;
+    left: 4px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .desktop-3 .rectangle-29 {
+    height: 324px;
+    left: 126px;
+    object-fit: cover;
+    position: absolute;
+    top: 21px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-30 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 127px;
+    position: absolute;
+    top: 372px;
+    width: 221px;
+  }
+  
+  .desktop-3 .rectangle-31 {
+    height: 324px;
+    left: 368px;
+    object-fit: cover;
+    position: absolute;
+    top: 21px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-32 {
+    height: 324px;
+    left: 614px;
+    object-fit: cover;
+    position: absolute;
+    top: 24px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-33 {
+    height: 324px;
+    left: 860px;
+    object-fit: cover;
+    position: absolute;
+    top: 21px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-34 {
+    height: 324px;
+    left: 1102px;
+    object-fit: cover;
+    position: absolute;
+    top: 24px;
+    width: 222px;
+  }
+  
+  .desktop-3 .jollof-rice {
+    cursor: pointer;
+    left: 143px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 388px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .rectangle-35 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 369px;
+    position: absolute;
+    top: 372px;
+    width: 221px;
+  }
+  
+  .desktop-3 .thiebou-dieune {
+    left: 385px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 388px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .rectangle-36 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 611px;
+    position: absolute;
+    top: 372px;
+    width: 221px;
+  }
+  
+  .desktop-3 .maf-yapp {
+    left: 627px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 388px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .rectangle-38 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 1100px;
+    position: absolute;
+    top: 372px;
+    width: 221px;
+  }
+  
+  .desktop-3 .domoda-yapp {
+    left: 1116px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 388px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .icon-play {
+    height: 50px;
+    left: 212px;
+    position: absolute;
+    top: 158px;
+    width: 50px;
+  }
+  
+  .desktop-3 .icon-play-1 {
+    left: 454px;
+    top: 158px;
+  }
+  
+  .desktop-3 .icon-play-2 {
+    left: 700px;
+    top: 161px;
+  }
+  
+  .desktop-3 .icon-play-3 {
+    left: 946px;
+    top: 158px;
+  }
+  
+  .desktop-3 .icon-play-4 {
+    left: 1188px;
+    top: 161px;
+  }
+  
+  .desktop-3 .rectangle-41 {
+    background-color: var(--white);
+    height: 447px;
+    left: 2px;
+    position: absolute;
+    top: 447px;
+    width: 1440px;
+  }
+  
+  .desktop-3 .rectangle-42 {
+    height: 324px;
+    left: 124px;
+    object-fit: cover;
+    position: absolute;
+    top: 468px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-43 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 125px;
+    position: absolute;
+    top: 819px;
+    width: 221px;
+  }
+  
+  .desktop-3 .rectangle-44 {
+    height: 324px;
+    left: 366px;
+    object-fit: cover;
+    position: absolute;
+    top: 468px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-45 {
+    height: 324px;
+    left: 612px;
+    object-fit: cover;
+    position: absolute;
+    top: 471px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-46 {
+    height: 324px;
+    left: 858px;
+    object-fit: cover;
+    position: absolute;
+    top: 468px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-47 {
+    height: 324px;
+    left: 1100px;
+    object-fit: cover;
+    position: absolute;
+    top: 471px;
+    width: 222px;
+  }
+  
+  .desktop-3 .jollof-rice-1 {
+    left: 141px;
+    top: 835px;
+  }
+  
+  .desktop-3 .rectangle-48 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 367px;
+    position: absolute;
+    top: 819px;
+    width: 221px;
+  }
+  
+  .desktop-3 .thiebou-dieune-1 {
+    left: 383px;
+    top: 835px;
+  }
+  
+  .desktop-3 .rectangle-49 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 609px;
+    position: absolute;
+    top: 819px;
+    width: 221px;
+  }
+  
+  .desktop-3 .maf-yapp-1 {
+    left: 625px;
+    top: 835px;
+  }
+  
+  .desktop-3 .rectangle-50 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 851px;
+    position: absolute;
+    top: 819px;
+    width: 221px;
+  }
+  
+  .desktop-3 .cbon {
+    left: 867px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 835px;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .rectangle-51 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 1098px;
+    position: absolute;
+    top: 819px;
+    width: 221px;
+  }
+  
+  .desktop-3 .domoda-yapp-1 {
+    left: 1114px;
+    top: 835px;
+  }
+  
+  .desktop-3 .icon-play-5 {
+    left: 210px;
+    top: 605px;
+  }
+  
+  .desktop-3 .icon-play-6 {
+    left: 452px;
+    top: 605px;
+  }
+  
+  .desktop-3 .icon-play-7 {
+    left: 698px;
+    top: 608px;
+  }
+  
+  .desktop-3 .icon-play-8 {
+    left: 944px;
+    top: 605px;
+  }
+  
+  .desktop-3 .icon-play-9 {
+    left: 1186px;
+    top: 608px;
+  }
+  
+  .desktop-3 .rectangle-52 {
+    background-color: var(--white);
+    height: 447px;
+    left: 0;
+    position: absolute;
+    top: 878px;
+    width: 1440px;
+  }
+  
+  .desktop-3 .rectangle-53 {
+    height: 324px;
+    left: 122px;
+    object-fit: cover;
+    position: absolute;
+    top: 899px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-54 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 123px;
+    position: absolute;
+    top: 1250px;
+    width: 221px;
+  }
+  
+  .desktop-3 .rectangle-55 {
+    height: 324px;
+    left: 364px;
+    object-fit: cover;
+    position: absolute;
+    top: 899px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-56 {
+    height: 324px;
+    left: 610px;
+    object-fit: cover;
+    position: absolute;
+    top: 902px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-57 {
+    height: 324px;
+    left: 856px;
+    object-fit: cover;
+    position: absolute;
+    top: 899px;
+    width: 222px;
+  }
+  
+  .desktop-3 .rectangle-58 {
+    height: 324px;
+    left: 1098px;
+    object-fit: cover;
+    position: absolute;
+    top: 902px;
+    width: 222px;
+  }
+  
+  .desktop-3 .jollof-rice-2 {
+    left: 139px;
+    top: 1266px;
+  }
+  
+  .desktop-3 .rectangle-59 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 365px;
+    position: absolute;
+    top: 1250px;
+    width: 221px;
+  }
+  
+  .desktop-3 .thiebou-dieune-2 {
+    left: 381px;
+    top: 1266px;
+  }
+  
+  .desktop-3 .rectangle-60 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 607px;
+    position: absolute;
+    top: 1250px;
+    width: 221px;
+  }
+  
+  .desktop-3 .maf-yapp-2 {
+    left: 623px;
+    top: 1266px;
+  }
+  
+  .desktop-3 .rectangle-61 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 849px;
+    position: absolute;
+    top: 1250px;
+    width: 221px;
+  }
+  
+  .desktop-3 .cbon-1 {
+    left: 865px;
+    top: 1266px;
+  }
+  
+  .desktop-3 .rectangle-62 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 1096px;
+    position: absolute;
+    top: 1250px;
+    width: 221px;
+  }
+  
+  .desktop-3 .domoda-yapp-2 {
+    left: 1112px;
+    top: 1266px;
+  }
+  
+  .desktop-3 .icon-play-10 {
+    left: 208px;
+    top: 1036px;
+  }
+  
+  .desktop-3 .icon-play-11 {
+    left: 450px;
+    top: 1036px;
+  }
+  
+  .desktop-3 .icon-play-12 {
+    left: 696px;
+    top: 1039px;
+  }
+  
+  .desktop-3 .icon-play-13 {
+    left: 942px;
+    top: 1036px;
+  }
+  
+  .desktop-3 .icon-play-14 {
+    left: 1184px;
+    top: 1039px;
+  }
+  
+  .desktop-3 .rectangle-63 {
+    background-color: var(--white);
+    height: 467px;
+    left: 200px;
+    position: absolute;
+    top: 1px;
+    width: 273px;
+  }
+  
+  .desktop-3 .rectangle-64 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--botticelli);
+    height: 40px;
+    left: 219px;
+    position: absolute;
+    top: 19px;
+    width: 40px;
+  }
+  
+  .desktop-3 .rapide {
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 30px;
+  }
+  
+  .desktop-3 .rectangle-65 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--botticelli);
+    height: 40px;
+    left: 219px;
+    position: absolute;
+    top: 97px;
+    width: 40px;
+  }
+  
+  .desktop-3 .facile {
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 108px;
+  }
+  
+  .desktop-3 .rectangle-66 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--botticelli);
+    height: 40px;
+    left: 219px;
+    position: absolute;
+    top: 175px;
+    width: 40px;
+  }
+  
+  .desktop-3 .repas-une-casserole {
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 186px;
+  }
+  
+  .desktop-3 .rectangle-67 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--botticelli);
+    height: 40px;
+    left: 219px;
+    position: absolute;
+    top: 253px;
+    width: 40px;
+  }
+  
+  .desktop-3 .dners-la-pole {
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 264px;
+  }
+  
+  .desktop-3 .rectangle-68 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--botticelli);
+    height: 40px;
+    left: 219px;
+    position: absolute;
+    top: 331px;
+    width: 40px;
+  }
+  
+  .desktop-3 .address {
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 342px;
+  }
+  
+  .desktop-3 .rectangle-69 {
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--botticelli);
+    height: 40px;
+    left: 219px;
+    position: absolute;
+    top: 409px;
+    width: 40px;
+  }
+  
+  .desktop-3 .prenez-de-lavance {
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 420px;
+  }
+  
+  .desktop-3 .rectangle-71 {
+    background-color: var(--botticelli);
+    height: 59px;
+    left: 855px;
+    position: absolute;
+    top: 370px;
+    width: 221px;
+  }
+  
+  .desktop-3 .cbon-2 {
+    left: 876px;
+    top: 388px;
+  }
+  
+  .desktop-3 .component-2 {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 1px;
+    margin-top: 45px;
+    min-height: 229px;
+    padding: 14px 0;
+    width: 1440px;
+    z-index: 5;
+  }
+  
+  .desktop-3 .flex-row {
+    align-items: center;
+    display: flex;
+    height: 177px;
+    min-width: 1415px;
+  }
+  
+  .desktop-3 .image-1-1 {
+    align-self: flex-end;
+    height: 153px;
+    object-fit: cover;
+    width: 129px;
+  }
+  
+  .desktop-3 .flex-col {
+    align-items: flex-start;
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    min-height: 162px;
+    width: 681px;
+  }
+  
+  .desktop-3 .bon-appetit {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 3px;
+    min-height: 33px;
+    width: 161px;
+  }
+  
+  .desktop-3 .obtenez-des-recettes {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 9px;
+    min-height: 58px;
+  }
+  
+  .desktop-3 .overlap-group {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    box-shadow: 0px 4px 4px #00000040;
+    display: flex;
+    gap: 275px;
+    height: 50px;
+    justify-content: flex-end;
+    margin-left: 3px;
+    margin-top: 12px;
+    min-width: 610px;
+    padding: 4px 16px;
+  }
+  
+  .desktop-3 .entrez-ladresse-e-mail {
+    align-self: center;
+    color: #00000040;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 3.0px;
+    min-height: 29px;
+    min-width: 260px;
+  }
+  
+  .desktop-3 .material-symbolsarrow-right-rounded {
+    height: 40px;
+    width: 40px;
+  }
+  
+  .desktop-3 .dners-repas-ingredients-conseils {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 72px;
+    margin-top: 29.0px;
+    min-height: 116px;
+    min-width: 162px;
+  }
+  
+  .desktop-3 .trousse-media-en-bon {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 70px;
+    min-height: 87px;
+    min-width: 296px;
+  }
+  
+  .desktop-3 .line-2 {
+    align-self: center;
+    height: 4px;
+    margin-left: 18.0px;
+    width: 1186px;
+  }
+  
+  .desktop-3 .overlap-group5 {
+    align-items: flex-start;
+    background-color: var(--black);
+    display: flex;
+    height: 92px;
+    min-width: 1440px;
+    padding: 30px 448px;
+    z-index: 6;
+  }
+  
+  .desktop-3 .x2023-yay-chef-tou {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 29px;
+  }
+  
+  .desktop-3 .cbon-3 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .component {
+    background-color: var(--botticelli);
+    display: flex;
+  }
+  
+  .desktop-3 .domoda-yapp-3 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .icon-play-15 {
+    height: 50px;
+    position: absolute;
+    width: 50px;
+  }
+  
+  .desktop-3 .jollof-rice-3 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .maf-yapp-3 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    white-space: nowrap;
+  }
+  
+  .desktop-3 .material-symbolsarrow-drop-down-rounded-8 {
+    height: 50px;
+    width: 50px;
+  }
+  
+  .desktop-3 .thiebou-dieune-3 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    white-space: nowrap;
+  }
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:700,500,600");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/64538063244cad3e193f1548.6453806444077b1738776e3e.64538066667928fc44d4e607.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+:root { 
+    --black: #000000;
+    --botticelli: #c9deec;
+    --white: #ffffff;
+   
+    --font-size-m2: 20px;
+    --font-size-xl: 24px;
+    --font-size-xxs2: 14px;
+   
+    --font-family-inter: "Inter", Helvetica;
+  }
+  .inter-semi-bold-black-20px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m2);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .inter-bold-black-24px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .inter-bold-black-14px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxs2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
